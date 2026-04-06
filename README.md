@@ -4,7 +4,9 @@ A backend system for a finance dashboard built with Node.js, Express, and MongoD
 
 ## Live API
 
-Base URL: https://zorvyn-finance-backend-6g7q.onrender.com
+Base URL:
+https://zorvyn-finance-backend-6g7q.onrender.com
+
 Example endpoint:
 POST /api/auth/register
 
