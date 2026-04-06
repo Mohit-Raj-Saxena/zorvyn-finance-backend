@@ -2,6 +2,12 @@
 
 A backend system for a finance dashboard built with Node.js, Express, and MongoDB. The system supports financial record management, role-based access control, and dashboard analytics APIs.
 
+## Live API
+
+Base URL: https://zorvyn-finance-backend-6g7q.onrender.com
+Example endpoint:
+POST /api/auth/register
+
 ## Tech Stack
 
 - **Runtime:** Node.js
